@@ -24,6 +24,8 @@ This project provides a boilerplate template for building web applications using
    cd express-mongo-ts-template
 
   Create a .env file in the root directory with your environment variables:
-    MONGODB_URI=mongodb://mongo:27017/your_database_name
   ```bash
+    MONGODB_URI=mongodb://mongo:27017/your_database_name
+   ```
+   ```bash
    docker-compose up --build
